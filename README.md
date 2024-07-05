@@ -1,0 +1,1 @@
+# cdn-error-page-hibernation
